@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&display=swap');
+
+* {
+  margin: 0;
+  font-family: "Georgia", serif;
+  color: #212a38;
+  background-color:#e8e4dc;
+ 
+}
+
+
+main { max-width: 475px;
+       margin: auto;
+               
+}
+
+h1 {
+  text-align: center;
+  font-family: "Kablammo", system-ui;"
+   
+}
+figure {
+  max-width: 600px;
+  margin: auto;
+  color: #dce8e7;
+  background-color: #c3dea0;
+  border: double #cda0de 20px;
+}
+figure img {
+  max-width: 100%;
+}
+figcaption{ 
+  background-color: #e3e39f;
+padding: 1em;
+}
+
+p { 
+  line-height: 26px; 
+  padding: 0.5em;
+  }
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color:#fc031c ;
+}
